@@ -1,7 +1,8 @@
 Universo Desconhecido
+
 site básico que ira conter informações sobre exploração espacial e informações sobre o espaço em geral  
 
-tecnologias ultilizadas
+tecnologias ultilizadas:
 html 
 css
 java script
